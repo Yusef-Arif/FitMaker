@@ -1,0 +1,18 @@
+.button-red,
+.button-or:hover {
+  border: 1px solid #cf0d13;
+  padding: 7px;
+  border-radius: 0.5rem;
+  background-color: #cf0d13;
+  color: white;
+  transition: 0.3s ease-in-out;
+}
+.button-red:hover,
+.button-or {
+  border: 1px solid #c94b17;
+  padding: 7px;
+  border-radius: 0.5rem;
+  color: #c94b17;
+  background-color: transparent;
+  transition: 0.3s ease-in-out;
+}
